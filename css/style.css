@@ -10826,7 +10826,7 @@ ul#flickr-sfeeds li a img {
   font-weight: 300;
 }
 .fes2-text-cont {
-  margin-top: 30px;
+  margin-top: 2px; /*this line change 50px to 2px*/
   font-family: Lato, Arial, Helvetica, sans-serif;
   font-size: 16px;
   line-height: 25px;
