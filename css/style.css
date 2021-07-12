@@ -5488,8 +5488,8 @@ button {
   display: inline-block;
   padding: 13px 17px 13px 17px;
   background-color: transparent;
-  color: #7a7b80;
-  border: 2px solid #c5c2c2;
+  color: #66ffd0;
+  border: 2px solid #66ffd0;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
@@ -5506,15 +5506,15 @@ button {
 }
 .button.thin:hover {
   background-color: #d7d9dc;
-  color: #4b4e53;
+  color: #00ffb2;
   border: 2px solid #d7d9dc;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
 .button.thin.hover-dark:hover {
-  background-color: #4b4e53 !important;
-  border: 2px solid #4b4e53 !important;
+  background-color: #00ffb2 !important;
+  border: 2px solid #00ffb2 !important;
   color: #fff !important;
 }
 .button.thin-bg-dark {
@@ -5522,8 +5522,8 @@ button {
   display: inline-block;
   padding: 13px 17px 13px 17px !important;
   background-color: transparent !important;
-  color: #4b4e53 !important;
-  border: 2px solid #727578 !important;
+  color: #00ffb2 !important;
+  border: 2px solid #66ffd0 !important;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
@@ -5768,10 +5768,10 @@ button {
 }
 .button.gray {
   color: #fff;
-  background-color: #535961;
+  background-color: #00ffb2;
 }
 .button.gray:hover {
-  background-color: #101010;
+  background-color: #00e5a0;
 }
 .button.gray-light {
   color: #4b4e53;
