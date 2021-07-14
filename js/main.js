@@ -298,7 +298,9 @@ function initMagnPopup () {
         }
       })
     }),
-    $('.popup- youtube, .popup-vimeo, .popup-gmaps').magnificPopup({
+    $(
+      '.popup- youtube, .popup-vimeo, .popup-gmaps .popup-instagram'
+    ).magnificPopup({
       type: 'iframe',
       mainClass: 'mfp-fade',
       removalDelay: 160,
