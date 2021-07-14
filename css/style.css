@@ -1099,6 +1099,30 @@ video {
   line-height: 30px;
   color: #4b4e53;
 }
+.section-title-X {
+  margin: 0;
+  padding: 15px 20px 17px 23px;
+
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 30px;
+  color: #00ffb2;
+  line-height: 32px;
+  border-left: #4b4e53 2px solid;
+}
+.section-title-Y {
+  margin: 0;
+  padding: 15px 20px 17px 23px;
+
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 30px;
+  color: #4b4e53;
+  font-weight: bold;
+}
+
 .section-title-3 {
   margin: 0;
   padding: 15px 20px 17px 23px;
