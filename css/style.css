@@ -952,7 +952,7 @@ video {
   margin-top: 15px;
   height: 3px;
   width: 100px;
-  background: #4b4e53;
+  background: #ff9000;
 }
 .fes1-box {
   position: relative;
@@ -1051,7 +1051,7 @@ video {
   margin-top: 11px;
   height: 3px;
   width: 70px;
-  background: #4b4e53;
+  background: #ff9000;
 }
 .fes4-cont {
   padding-top: 130px;
@@ -1087,8 +1087,12 @@ video {
   font-weight: 300;
   font-size: 30px;
   line-height: 36px;
-  color: #4b4e53;
+  color: #00ffb2;
   border-left: #4b4e53 2px solid;
+}
+.custom-colorX {
+  color: #4b4e53;
+  font-weight: bold;
 }
 .section-title-2 {
   margin: 0;
@@ -1098,29 +1102,6 @@ video {
   font-size: 30px;
   line-height: 30px;
   color: #4b4e53;
-}
-.section-title-X {
-  margin: 0;
-  padding: 15px 20px 17px 23px;
-
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-  font-weight: 300;
-  font-size: 30px;
-  line-height: 30px;
-  color: #00ffb2;
-  line-height: 32px;
-  border-left: #4b4e53 2px solid;
-}
-.section-title-Y {
-  margin: 0;
-  padding: 15px 20px 17px 23px;
-
-  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
-  font-weight: 300;
-  font-size: 30px;
-  line-height: 30px;
-  color: #4b4e53;
-  font-weight: bold;
 }
 
 .section-title-3 {
@@ -5513,7 +5494,7 @@ button {
   display: inline-block;
   padding: 13px 17px 13px 17px;
   background-color: transparent;
-  color: #66ffd0;
+  color: #4b4e53;
   border: 2px solid #66ffd0;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
@@ -5547,7 +5528,7 @@ button {
   display: inline-block;
   padding: 13px 17px 13px 17px !important;
   background-color: transparent !important;
-  color: #00ffb2 !important;
+  color: #4b4e53 !important;
   border: 2px solid #66ffd0 !important;
   -webkit-transition: all 0.3s ease 0s;
   -o-transition: all 0.3s ease 0s;
