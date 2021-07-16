@@ -981,6 +981,12 @@ video {
   .right-50 {
     right: 50%;
   }
+  .left-50X {
+    left: 38%;
+  }
+  .right-50X {
+    right: 42%;
+  }
 }
 .fes2-main-text-cont {
   margin: 0 auto;
